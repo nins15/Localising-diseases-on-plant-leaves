@@ -7,3 +7,8 @@
 We have used the Plantvillage for training our models. We used one plant category of apple .Within the plant village dataset there are a total of 1902 images of apple in each of the three formats called color, segmented, grayscale. And a total of 5706 images.Three diseases of apple were considered called as apple scab , cedar rust and back rot.
 
 ![alt text](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/imagedistribution.png "distribution")
+## Image augmentation
+As the images are classes are highly imbalanced we have used image augmentation to balance them. For augmentation we have used three techniques,they are:
+* Random Rotation
+* Random Noise
+* Horizontal Flip
