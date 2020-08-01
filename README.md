@@ -43,4 +43,6 @@ We have used transfer learning and used two CNN models they are:
 
 ![alt text](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/finalresult.png "results")
 
+## Paper on this project
 
+https://www.ijrte.org/wp-content/uploads/papers/v8i6/E6935018520.pdf
