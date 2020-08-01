@@ -12,3 +12,12 @@ As the images are classes are highly imbalanced we have used image augmentation 
 * Random Rotation
 * Random Noise
 * Horizontal Flip
+## Building classification models
+
+We have used transfer learning and used two CNN models they are:
+
+1)ResNet
+
+![alt text](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/Resnetaccuracy.png "resnetacc")
+
+![alt text](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/Resnetloss.png "resnetloss")
