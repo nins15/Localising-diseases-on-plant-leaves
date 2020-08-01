@@ -39,3 +39,8 @@ We have used transfer learning and used two CNN models they are:
 
 ![alt text](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/Efficientnetconfusion.png "efficientnetconfusion")
 
+## Localisation of Disease on the leaf
+
+![alt text](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/finalresult.png "results")
+
+
